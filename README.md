@@ -6,3 +6,5 @@
 * run 'python text_generation.py
 
 * sample output: 'f g h i j k l m n o p r r r t v v w x z z a b c d e f g h i j k l m n o p r r r t v v w x z z a b c'
+
+* more data and training would improve the sequence generation. 
